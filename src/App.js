@@ -3,7 +3,7 @@ import './App.css';
 import Expense from './components/Expenses/Expenses';
 
 
-function App() {
+const App = () => {
   
 
   return (

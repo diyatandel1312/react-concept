@@ -3,7 +3,7 @@ import Card from '../UI/Card';
 import './Expenses.css';
 
 
-function Expense() {
+const Expense = () => {
   const expenses = [
     {
       id: 'e1',
